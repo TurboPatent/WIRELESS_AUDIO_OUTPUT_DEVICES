@@ -1,0 +1,175 @@
+{
+  "name": "WIRELESS_AUDIO_OUTPUT_DEVICES",
+  "description": "Wireless air bud technology and corresponding case",
+  "owner": {
+    "login": "TurboPatent",
+    "type": "organization"
+  },
+  "license": "MIT",
+  "private": false,
+  "details": {
+    "counts": {
+      "termCount": 74,
+      "claimCount": 1,
+      "independentCount": 1,
+      "drawingCount": 2,
+      "glossaryCount": 0
+    },
+    "briefDescriptions": [
+      "<p>illustrates an <span data-role=\"tag\" data-value=\"f55db98d-4b12-b7be-ca58-a09d4bbd741a\" id=\"idad709f5a-5fd5-860c-b1e8-2150dca237b1\" data-type=\"term\">example wireless ear bud case</span> according to some <span data-role=\"tag\" data-value=\"dbbae476-498b-eec9-0fb6-eb317790f77d\" id=\"id2d9208a2-4a9e-4da4-763b-2e06395d32fb\" data-type=\"term\">embodiments</span> of the <span data-role=\"tag\" data-value=\"29a3b62c-587d-5d67-d1a4-6929e9641f1e\" id=\"idda5c15d5-f324-968b-e3eb-6558dd5d868d\" data-type=\"term\">present technology</span>.&nbsp;</p>",
+      "<p>illustrates an <span data-role=\"tag\" data-value=\"f84422b0-02d5-00f2-b228-cce6a7105617\" id=\"idf62ea560-51eb-c677-8878-8d218b99dc7b\" data-type=\"term\">example wireless ear bud</span> that can <span data-role=\"tag\" data-value=\"628c3b36-7ea5-8eea-f099-7a546d572c64\" id=\"id7f0b735a-3584-154c-67dc-0485e4deb42c\" data-type=\"term\">communicatively couple</span> with another <span data-role=\"tag\" data-value=\"7cadaac0-0cdc-6afc-01b1-823b8e6b7193\" id=\"ided32fb47-edf2-fc7b-ffe2-1c833213c8ba\" data-type=\"term\">wireless ear bud</span> to form a <span data-role=\"tag\" data-value=\"d229a77c-97ba-641f-6139-5b0e0715914c\" id=\"idb59618aa-4844-6ec1-8272-66a539d48001\" data-type=\"term\">pair</span> of <span data-role=\"tag\" data-value=\"cfe8f1da-1e9c-b5d0-dbbd-d86f6a8a8e9e\" id=\"id99749b64-e947-20bc-cdc6-52f487430b53\" data-type=\"term\">untethered, wireless ear buds</span> according to some <span data-role=\"tag\" data-value=\"dbbae476-498b-eec9-0fb6-eb317790f77d\" id=\"id8dab6b97-3da0-30aa-cf24-755347974d78\" data-type=\"term\">embodiments</span> of the <span data-role=\"tag\" data-value=\"29a3b62c-587d-5d67-d1a4-6929e9641f1e\" id=\"id9ac8d115-b9f5-d58c-a92f-ab4d2f0ef1af\" data-type=\"term\">present technology</span>.&nbsp;</p>"
+    ],
+    "parts": [
+      {
+        "name": "wireless ear bud case",
+        "number": 100
+      },
+      {
+        "name": "cover",
+        "number": 102
+      },
+      {
+        "name": "wireless ear buds",
+        "number": 104
+      },
+      {
+        "name": "indicator",
+        "number": 106
+      },
+      {
+        "name": "sensor",
+        "number": 108
+      },
+      {
+        "name": "communication link",
+        "number": 110
+      },
+      {
+        "name": "processor",
+        "number": 112
+      },
+      {
+        "name": "communication interface",
+        "number": 114
+      },
+      {
+        "name": "memory",
+        "number": 116
+      },
+      {
+        "name": "battery",
+        "number": 118
+      },
+      {
+        "name": "charging interface",
+        "number": 120
+      },
+      {
+        "name": "input mechanism",
+        "number": 122
+      },
+      {
+        "name": "one or more sensors",
+        "number": 202
+      },
+      {
+        "name": "audio output",
+        "number": 204
+      },
+      {
+        "name": "communication interface",
+        "number": 206
+      },
+      {
+        "name": "processor",
+        "number": 208
+      },
+      {
+        "name": "memory",
+        "number": 210
+      },
+      {
+        "name": "battery",
+        "number": 212
+      }
+    ],
+    "terms": [
+      "received signal, e.g.",
+      "wireless ear bud(s)",
+      "bad actor",
+      "MAC address",
+      "paired partner MAC address",
+      "battery",
+      "wireless ear bud",
+      "wireless ear buds",
+      "example wireless ear bud",
+      "other wireless ear buds",
+      "untethered, wireless ear buds",
+      "button",
+      "wireless ear bud case",
+      "example wireless ear bud case",
+      "housing/case",
+      "circumstances",
+      "connection",
+      "couple",
+      "communicatively couple",
+      "coupling",
+      "secure wireless communicative coupling",
+      "maliciously communicatively coupling",
+      "cover",
+      "data",
+      "audio data",
+      "greater detail",
+      "detects",
+      "companion communication device",
+      "companion communication devices",
+      "paired companion communication device",
+      "source device",
+      "embodiments",
+      "example",
+      "exchange",
+      "figure",
+      "connection history",
+      "indicator",
+      "instructions",
+      "charging interface",
+      "communication interface",
+      "bluetooth link keys",
+      "one or more link keys",
+      "communication link",
+      "physical communication link",
+      "input mechanism",
+      "memory",
+      "pairing mode",
+      "enabled pairing mode",
+      "wireless network",
+      "audio output",
+      "pair",
+      "pairs",
+      "password",
+      "fixed time period",
+      "process",
+      "processor",
+      "thirty seconds",
+      "secrets",
+      "shared secret",
+      "sensor",
+      "one or more sensors",
+      "signal",
+      "audio signals",
+      "audible sound",
+      "power source",
+      "charge status",
+      "wearing status",
+      "in-ear wearing status",
+      "out-of-ear wearing status",
+      "stores",
+      "store",
+      "present technology",
+      "times",
+      "user"
+    ],
+    "glossary": []
+  },
+  "repository": "https://github.com/TurboPatent/WIRELESS_AUDIO_OUTPUT_DEVICES"
+}
